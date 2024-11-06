@@ -2,4 +2,4 @@
 
 Simple tic-tac-toe game in the web
 
-[Play here](simple-tic.vercel.app).
+[Play here](https://simple-tic.vercel.app/).
